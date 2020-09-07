@@ -26,15 +26,13 @@ This repo contains the student materials for the React course on September 8, 20
 - Feature: Add Color Component with Refs - ([run it](https://codesandbox.io/s/learning-react-color-organizer-3-kkyn0?file=/src/AddColorForm.js))
 - Refactor: Add Color Controlled Component - ([run it](https://codesandbox.io/s/learning-react-color-organizer-4-sudge?file=/src/AddColorForm.js))
 
-## Custom Hooks
+### Custom Hooks
 
 - Refactor: `useInput` hook - ([run it](https://codesandbox.io/s/learning-react-color-organizer-5-umj5q?file=/src/hooks.js))
 - Feature: Adding a Color to State - ([run it](https://codesandbox.io/s/learning-react-color-organizer-6-ewxpp?file=/src/App.js))
 - Refactor: Colors In Context - ([run it](https://codesandbox.io/s/learning-react-color-organizer-7-lg9y3?file=/src/index.js))
 - Refactor: `useColors` hook - ([run it](https://codesandbox.io/s/learning-react-color-organizer-8-jqchd?file=/src/ColorProvider.js))
 - BONUS: Color Organizer App (with emotion css)- ([run it](https://codesandbox.io/s/learning-react-color-organizer-9-ypf8r?file=/src/ColorList.js))
-
-## useEffect and useReducer
 
 ### `useEffect` hook
 
@@ -61,10 +59,10 @@ This repo contains the student materials for the React course on September 8, 20
 - `useReducer` with objects - ([run it](https://codesandbox.io/s/learning-react-usereducer-complex-2-ewue8?file=/src/App.js))
 - legacy `setState` with `useReducer` - ([run it](https://codesandbox.io/s/learning-react-usereducer-complex-3-2wldd?file=/src/App.js))
 
-## XState and State Machines
+## xstate and State Machines
 
+- [xstate Visualizer](https://xstate.js.org/viz/)
 - [tahoeTravelMachine Visualized](https://xstate.js.org/viz/?gist=978291ab7a65607bafb58dcdaf65a65d)
-
-## React Router 6
+- [Tahoe Travel Machine](https://github.com/eveporcello/xstate-examples)
 
 ## Loading Data
