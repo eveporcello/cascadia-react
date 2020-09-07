@@ -4,6 +4,8 @@ This repo contains the student materials for the React course on September 8, 20
 
 ## Slides
 
+- [Slides](https://slides.com/moonhighway/cascadia-react)
+
 ## Instructor Info
 
 - **Eve Porcello**: [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
@@ -51,10 +53,7 @@ This repo contains the student materials for the React course on September 8, 20
 - Checkbox with `useState` - ([run it](https://codesandbox.io/s/learning-react-usereducer-1-ef229?file=/src/App.js))
 - Checkbox with `toggle` - ([run it](https://codesandbox.io/s/learning-react-usereducer-2-oqy23?file=/src/App.js))
 - Checkbox with `useReducer` - ([run it](https://codesandbox.io/s/learning-react-usereducer-3-mht63?file=/src/App.js))
-- Increment number with `useReducer` - ([run it](https://codesandbox.io/s/learning-react-usereducer-4-b1yxs?file=/src/App.js))
-
-### useReducer to handle Complex State
-
+- Increment number with `useReducer` - ([run it](https://codesandbox.io/s/learning-react-usereducer-4-b1yxs?file=/src/App.js)
 - `useState` with objects - ([run it](https://codesandbox.io/s/learning-react-usereducer-complex-1-k7ibz?file=/src/App.js))
 - `useReducer` with objects - ([run it](https://codesandbox.io/s/learning-react-usereducer-complex-2-ewue8?file=/src/App.js))
 - legacy `setState` with `useReducer` - ([run it](https://codesandbox.io/s/learning-react-usereducer-complex-3-2wldd?file=/src/App.js))
@@ -64,5 +63,3 @@ This repo contains the student materials for the React course on September 8, 20
 - [xstate Visualizer](https://xstate.js.org/viz/)
 - [tahoeTravelMachine Visualized](https://xstate.js.org/viz/?gist=978291ab7a65607bafb58dcdaf65a65d)
 - [Tahoe Travel Machine](https://github.com/eveporcello/xstate-examples)
-
-## Loading Data
