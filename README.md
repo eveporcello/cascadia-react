@@ -36,7 +36,7 @@ This repo contains the student materials for the React course on September 8, 20
 - Refactor: `useColors` hook - ([run it](https://codesandbox.io/s/learning-react-color-organizer-8-jqchd?file=/src/ColorProvider.js))
 - BONUS: Color Organizer App (with emotion css)- ([run it](https://codesandbox.io/s/learning-react-color-organizer-9-ypf8r?file=/src/ColorList.js))
 
-### `useEffect` hook
+### useEffect hook
 
 - Blocking Alert Call - ([run it](https://codesandbox.io/s/learning-react-useeffect-1-yu7f6?file=/src/App.js));
 - Unreachable Code - ([run it](https://codesandbox.io/s/learning-react-useeffect-2-orpoq?file=/src/App.js));
@@ -63,3 +63,4 @@ This repo contains the student materials for the React course on September 8, 20
 - [xstate Visualizer](https://xstate.js.org/viz/)
 - [tahoeTravelMachine Visualized](https://xstate.js.org/viz/?gist=978291ab7a65607bafb58dcdaf65a65d)
 - [Tahoe Travel Machine](https://github.com/eveporcello/xstate-examples)
+- [Tahoe Travel Machine - complete](https://github.com/eveporcello/xstate-examples/tree/finished)
